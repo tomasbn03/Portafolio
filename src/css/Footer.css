@@ -1,0 +1,93 @@
+footer {
+    font-size: 14pt;
+}
+
+.footer-contact-form {
+    background-color: #272727;
+    color: white;
+    width: 100%;
+    display: inline-block;
+}
+
+.contact-form {
+    width: 95%;
+}
+
+.cont-form {
+    width: 80%;
+    margin: auto;
+}
+
+.contact-form input, .contact-form textarea {
+    width: 350px;
+    height: 30px;
+    border: none;
+}
+
+.contact-form textarea {
+    width: 365px;
+    height: 40px;
+}
+
+.contact-form button {
+    background-color: #FF5733;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.contact-form button:hover {
+    background-color: #FF7849;
+}
+
+.footer-info {
+    margin-left: 50px;
+}
+
+.footer-info p{
+    font-size: 12pt;
+    margin-top: 10px;
+}
+
+
+.whatsapp .iconWhats {
+    margin-top: 15px;
+}
+
+.whatsapp {
+    float: right;
+    position: relative;
+    margin-top: -150px;
+    margin-right: 50px;
+    width: 170px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: #383838;
+    transition: background-color 0.3s;
+}
+
+.whatsapp:hover {
+    background-color: #4FCA5D; 
+    color: #272727;
+    font-weight: bolder;
+}
+
+
+a .whatsapp {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.whatsapp p {
+    margin-top: 2px;
+    font-size: 12px;
+    
+}
+
+.iconWhats {
+    width: 40px;
+    height: 40px;
+}

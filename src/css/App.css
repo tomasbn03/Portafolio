@@ -1,0 +1,71 @@
+.App header {
+    background-color: #272727;
+    display: flex;            
+    justify-content: center;  
+    align-items: center;  
+}
+
+header .cont-main {
+    width: 230px;
+    height: 400px;
+    background-color: #383838;
+    padding: 20px 70px;
+    border-radius: 10px;
+}
+
+/* Estilo para el contenedor principal */
+.info-per {
+    width: 200px;
+    height: auto;
+    margin-top: 5px;
+    margin-left: 6%;
+    text-align: center;
+}
+
+.info-per .prfl {
+    width: 240px;
+    height: 260px;
+    margin: auto;
+    display: block; 
+    border-radius: 50%;
+    border: solid 10px #2F3A3C;
+    margin-left: -23px;
+}
+
+.info-per .socialm {
+    display: flex;          
+    justify-content: center; 
+    gap: 10px;               
+}
+
+.info-per .socialm .social-icon {
+    width: 30px;
+    height: 30px;
+    border: solid 1px transparent;
+}
+
+
+.cont-main .info-per h3 {
+    margin-top: 5px;    
+}
+
+.cont-main .info-per p {
+    margin-top: 10px;
+    font-size: 10pt;
+    font-weight: bold;
+}
+
+.App .cont-main div h3{
+    font-weight: bolder;
+}
+
+.App-header {
+  width: 100%;
+  height: 500px;
+  color: #D2E7FF;
+}
+
+.App-link {
+  color: #61dafb;
+}
+

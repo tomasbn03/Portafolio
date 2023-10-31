@@ -1,0 +1,40 @@
+.educacion {
+    width: 85%;
+    margin: auto;
+    padding: 0px 40px;
+    border-radius: 10px;
+    background-color: #272727;
+    border: solid 1px transparent;
+    height: auto;
+}
+
+.educacion h3 {
+    text-align: center;
+}
+
+.itca {
+    width: 700px;
+    height: auto;
+    padding: 20px;
+    margin: 10px;
+    background-color: #383838;
+    border-radius: 10px;
+}   
+
+.itca p{
+    font-size: 14pt;
+}   
+
+.inda {
+    width: 700px;
+    height: auto;
+    padding: 20px;
+    margin: 10px;
+    background-color: #383838;
+    border-radius: 10px;
+}
+
+.inda p {
+    font-size: 14pt;
+}
+

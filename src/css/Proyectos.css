@@ -1,0 +1,52 @@
+.proyectos {
+    width: 85%;
+    margin: auto;
+    padding: 0px 40px;
+    border-radius: 10px;
+    background-color: #272727;
+    border: solid 1px transparent;
+    height: auto;
+}
+
+.proyectos h3{
+    text-align: center;
+}
+
+.proyct {
+    width: 700px;
+    padding: 20px;
+    margin: 10px;
+}
+
+.proyecto-imagen {
+    width: 80%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.proyecto-titulo {
+    font-weight: bold;
+}
+
+.tecnologias-lista {
+    list-style-type: none;
+    padding: 0;
+}
+
+.proyecto-codigo {
+  display: inline-block;
+  margin-right: 10px;
+  background: #007bff;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 4px;
+  text-decoration: none;
+}
+
+.proyecto-codigo {
+    background: #28a745;
+}
+
+.proyct ul li {
+    font-size: 13pt;
+}

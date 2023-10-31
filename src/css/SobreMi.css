@@ -1,0 +1,72 @@
+.sobremi {
+    margin: 0;
+    padding: 0px 40px;
+    border-radius: 10px;
+    background-color: #272727;
+    border: solid 1px transparent;
+    transition: transform 0.3s;
+}
+
+.sobremi h3 {
+    text-align: center;
+    font-weight: bold;
+}
+
+.sobremi p {
+    font-size: 14pt;
+}
+
+.sobremi:hover {
+    transform: translate(5px, 2px);
+}
+
+.sobremi a {
+    text-decoration: none;
+    color: darkgray;
+
+}
+
+.sobremi a:hover, a:active {
+    text-decoration: none;
+    color: inherit;
+}
+
+.hobbies {
+    width: 500px;
+    height: 100px;
+}
+
+.hobbies h5 {
+    margin-top: 0;
+}
+
+.hobbies img {
+    width: 30px;
+    height: 30px;
+}
+
+.hobbies ul {
+    padding: 0; 
+    margin: 0;
+    list-style: none;
+    margin-left: 10px;
+    margin-top: -15px;
+}
+
+.hobbies li {
+    display: inline-block;
+    margin-right: 20px;
+    font-size: 10pt;
+}
+
+.game {
+    margin-left: 25px;
+}
+
+.music {
+    margin-left: 9px;
+}
+
+.sport {
+    margin-left: 15px;
+}

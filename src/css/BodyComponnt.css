@@ -1,0 +1,27 @@
+body{
+    text-align: justify;
+}
+
+.cont-body {
+    width: 60%;
+    left: 20%;
+    margin: auto;
+    color: #AAAAAA;
+    margin-top: 20px;
+    border: solid 1px transparent;
+}
+
+.sub-container {
+    width: 90%;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+p {
+    margin-top: -20px;
+}
+
+ul {
+    margin-top: -10px;
+}
