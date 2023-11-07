@@ -7,10 +7,11 @@ import x from './img/x.png'
 import github from './img/github.png'
 
 
+
 export default function Component() {
   return (
     <div>
-       <div className='info-per'>
+      <div className='info-per'>
           <img src={imgDisign} className='prfl' alt="" /> 
           <h3>Tomas Bonilla</h3>
           <p>Téc. Desarrollo de Software</p>
@@ -21,8 +22,7 @@ export default function Component() {
             <a href="https://twitter.com/tomaas_03" target='_blank'><img className='social-icon' src={x} alt="" /></a>
             <a href="https://github.com/tomasbn03?tab=repositories" target='_blank'><img className='social-icon' src={github} alt="github" /></a>
           </div>
-         
-       </div>
+      </div>
     </div>
   )
 }

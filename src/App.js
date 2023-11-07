@@ -15,6 +15,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+            
             {/* Contenedor de la intro */}
             <div className='cont-main'>
                   <Component />
