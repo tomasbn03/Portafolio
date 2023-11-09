@@ -4,7 +4,6 @@
     border-radius: 10px;
     background-color: #272727;
     border: solid 1px transparent;
-    transition: transform 0.3s;
     display: flex;         
     justify-content: center;
     flex-direction: column;
@@ -18,10 +17,6 @@
     display: flex;          
     justify-content: center;
     flex-wrap: wrap;       
-}
-
-.herramientas:hover {
-    transform: translate(5px, 2px);
 }
 
 .hrrmnts img {

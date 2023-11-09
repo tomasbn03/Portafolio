@@ -4,7 +4,6 @@
     border-radius: 10px;
     background-color: #272727;
     border: solid 1px transparent;
-    transition: transform 0.3s;
 }
 
 .sobremi h3 {
@@ -16,9 +15,6 @@
     font-size: 14pt;
 }
 
-.sobremi:hover {
-    transform: translate(5px, 2px);
-}
 
 .sobremi a {
     text-decoration: none;
